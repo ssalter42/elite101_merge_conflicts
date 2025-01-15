@@ -2,8 +2,16 @@
 Steve made this.
 
 
+Dayamir
 
 
+Carl was here and Steve made this.
+
+Yello, Dayamir was kinda here..? 
+
+Broken mic excuse - Dayamir
+
+:D
 
 print("Eva was here")
 
@@ -15,7 +23,7 @@ My branch
 Steve made this.
 
 hello
-=======
+
 
 Steve made this and raul was here
 
@@ -37,4 +45,5 @@ Line 4
 Line 5
 
 I PLAYED THESE GAMES BEFORE
+ main
 
